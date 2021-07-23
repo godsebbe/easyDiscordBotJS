@@ -1,0 +1,2 @@
+# easyDiscordBotJS
+Easy Discord Bot
