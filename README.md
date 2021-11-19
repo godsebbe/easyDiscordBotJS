@@ -1,4 +1,4 @@
-# A Simple Discord JS Bot With Only Has A Ping Command!
+# A Simple Discord JS Bot With A Ping Command v12!
 
 
 ### Everything Required 
